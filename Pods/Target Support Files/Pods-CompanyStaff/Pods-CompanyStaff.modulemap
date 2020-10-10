@@ -1,0 +1,6 @@
+framework module Pods_CompanyStaff {
+  umbrella header "Pods-CompanyStaff-umbrella.h"
+
+  export *
+  module * { export * }
+}
